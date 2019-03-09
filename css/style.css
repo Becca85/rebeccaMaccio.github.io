@@ -264,7 +264,7 @@ body ::-webkit-scrollbar {
 	}
 
 	.bloc-right .table {
-		margin-top: 18px;
+		margin-top: 16px;
 	}
 
 	.bloc-right h4{
@@ -283,7 +283,7 @@ body ::-webkit-scrollbar {
 	}
 
 	h4.pourPrint {
-		font-size: 22px !important;
+		font-size: 18px !important;
 		font-variant: small-caps;
 		margin: 12px 0px 12px 0px;
 	}
