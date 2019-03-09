@@ -259,12 +259,12 @@ body ::-webkit-scrollbar {
 		margin: 3px 0px 3px 0px;
 	}
 	h2.intitule{
-		font-size: 25px;
+		font-size: 22px;
 		margin: 10px 0px 15px 0px;
 	}
 
 	.bloc-right .table {
-		margin-top: 16px;
+		margin-top: 12px;
 	}
 
 	.bloc-right h4{
