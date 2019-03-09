@@ -260,11 +260,11 @@ body ::-webkit-scrollbar {
 	}
 	h2.intitule{
 		font-size: 25px;
-		margin: 50px 0px 30px 0px;
+		margin: 10px 0px 15px 0px;
 	}
 
 	.bloc-right .table {
-		margin-top: 50px;
+		margin-top: 18px;
 	}
 
 	.bloc-right h4{
@@ -285,7 +285,7 @@ body ::-webkit-scrollbar {
 	h4.pourPrint {
 		font-size: 22px !important;
 		font-variant: small-caps;
-		margin: 25px 0px 25px 0px;
+		margin: 12px 0px 12px 0px;
 	}
 
     li {
