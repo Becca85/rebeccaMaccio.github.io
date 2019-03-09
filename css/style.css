@@ -260,7 +260,11 @@ body ::-webkit-scrollbar {
 	}
 	h2.intitule{
 		font-size: 22px;
-		margin: 10px 0px 15px 0px;
+		margin: 10px 0px 10px 0px;
+	}
+	
+	h3.expPro {
+		font-size: 15px;
 	}
 
 	.bloc-right .table {
