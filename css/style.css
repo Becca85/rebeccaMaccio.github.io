@@ -126,7 +126,7 @@ footer a:focus {
 
 .sr-only {
 	clip: initial;
-	color: #49434A;
+	color: white;
 	position: static !important;
 }
 
